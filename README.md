@@ -8,6 +8,7 @@ https://jojoldu.tistory.com/300
 
 ### 개발환경
 * STS4 ( spring-boot 2.1.2 RELEASE )
+* spring-cloud-aws-dependencies 2.1.0
 * maven
 * template : thymeleaf
 

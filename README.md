@@ -13,7 +13,7 @@ https://jojoldu.tistory.com/300
 * template : thymeleaf
 
 
-### 겪었던 에러들
+### 발생에러 & 해결 이력
 
 1. `Error creating bean with name 'stackResourceRegistryFactoryBean' defined in class path resource [org/springframework/cloud/aws/autoconfigure/context/ContextStackAutoConfiguration.class]: Bean instantiation via factory method failed;`
    * application.properties에 cloud.aws.stack.auto=false 설정 추가
